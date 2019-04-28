@@ -1,0 +1,26 @@
+{
+  "name": "i-social",
+  "version": "1.0.0",
+  "description": "King-Son-T",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/son2909/Social.git"
+  },
+  "author": "King-Son-Tien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/son2909/Social/issues"
+  },
+  "homepage": "https://github.com/son2909/Social#readme",
+  "dependencies": {
+    "cores": "^0.8.5",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.4",
+    "morgan": "^1.9.1"
+  }
+}
