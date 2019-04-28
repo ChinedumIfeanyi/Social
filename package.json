@@ -1,7 +1,7 @@
 {
   "name": "i-social",
   "version": "1.0.0",
-  "description": "King-Son-T",
+  "description": "King-Son-Tien",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/son2909/Social#readme",
   "dependencies": {
-    "cores": "^0.8.5",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
     "express": "^4.16.4",
     "mongoose": "^5.5.4",
     "morgan": "^1.9.1"
